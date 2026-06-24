@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a2c79e107aaa15ba",
+        "id": "75fe3c1ffcb0213e",
         "type": "tabs",
         "children": [
           {
-            "id": "91642822738a7133",
+            "id": "08c1ee52352a7845",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "UntitledUntitled.canvas",
-                "viewState": {
-                  "x": -21.69345433616158,
-                  "y": -111.83605547346352,
-                  "zoom": -0.555555533479762
-                }
+                "file": "01_DailyNotes/2026-06-24.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "UntitledUntitled"
+              "icon": "lucide-file",
+              "title": "2026-06-24"
             }
           }
         ]
@@ -88,61 +85,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8b405a02171ea1b9",
-        "type": "tabs",
-        "dimension": 82.75862068965517,
-        "children": [
-          {
-            "id": "4ad7acf4c0b6d654",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "C:\\Users\\admin\\Documents\\obsidian\\obsidian-88",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "powershell",
-                    "followTheme": false,
-                    "name": "powershell (Integrated)",
-                    "platforms": {
-                      "darwin": false,
-                      "linux": false,
-                      "win32": true
-                    },
-                    "pythonExecutable": "C:\\Users\\admin\\Documents\\obsidian\\.obsidian-terminal-env\\Scripts\\python.exe",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "profileSourceId": "100f36ed-22d3-476a-9c27-21c85d56ff82",
-                  "serial": null,
-                  "userTitle": ""
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
-            }
-          }
-        ]
-      },
-      {
         "id": "dffcabaa4dbbbd67",
         "type": "tabs",
-        "dimension": 17.24137931034483,
         "children": [
           {
             "id": "372c6b0e1873334f",
@@ -150,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_DailyNotes/2026-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-06-24"
             }
           },
           {
@@ -217,8 +162,54 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "fc476a489c0e5369",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\admin\\Documents\\obsidian\\obsidian-88",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "powershell",
+                    "followTheme": false,
+                    "name": "powershell (Integrated)",
+                    "platforms": {
+                      "darwin": false,
+                      "linux": false,
+                      "win32": true
+                    },
+                    "pythonExecutable": "C:\\Users\\admin\\Documents\\obsidian\\.obsidian-terminal-env\\Scripts\\python.exe",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "profileSourceId": "100f36ed-22d3-476a-9c27-21c85d56ff82",
+                  "serial": null,
+                  "userTitle": ""
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: ✳ Claude Code"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -237,20 +228,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4ad7acf4c0b6d654",
+  "active": "08c1ee52352a7845",
   "lastOpenFiles": [
+    "01_DailyNotes/2026-06-24.md.tmp.13668.5d0f50688c8e",
+    "01_DailyNotes/2026-06-24.md",
+    "01_DailyNotes/Untitled.md",
+    "01_DailyNotes",
     "skills-lock.json",
     "UntitledUntitled.canvas",
     "옵시디언.md",
     "Profile.md",
-    "Attachments/Pasted image 20260624114411.png",
+    "99_Attachments/Pasted image 20260624114411.png",
     "simple-note.md",
     "test.md",
-    "Attachments/Pasted image 20260624120842.png",
-    "Attachments",
+    "99_Attachments/Pasted image 20260624120842.png",
+    "99_Attachments",
     "01_Attachments",
-    "Attachments/주소.md",
-    "Attachments/Pasted image 20260624114433.png",
+    "99_Attachments/주소.md",
+    "99_Attachments/Pasted image 20260624114433.png",
     "제목.md"
   ]
 }
