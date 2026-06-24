@@ -19,8 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "옵시디언"
-            },
-            "group": "5a9cc023dbe21e00"
+            }
           },
           {
             "id": "f196b2d7aa6100db",
@@ -75,19 +74,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b86890a80d1c0bd5",
+            "id": "a9794cd19d1db241",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "terminal:terminal",
               "state": {
-                "file": "옵시디언.md",
-                "mode": "source",
-                "source": false
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\admin\\Documents\\obsidian\\obsidian-88",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "powershell",
+                    "followTheme": false,
+                    "name": "powershell (Integrated)",
+                    "platforms": {
+                      "darwin": false,
+                      "linux": false,
+                      "win32": true
+                    },
+                    "pythonExecutable": "C:\\Users\\admin\\Documents\\obsidian\\.obsidian-terminal-env\\Scripts\\python.exe",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "profileSourceId": "100f36ed-22d3-476a-9c27-21c85d56ff82",
+                  "serial": null,
+                  "userTitle": ""
+                }
               },
-              "icon": "lucide-file",
-              "title": "옵시디언"
-            },
-            "group": "5a9cc023dbe21e00"
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: powershell (Integrated)"
+            }
           }
         ]
       }
@@ -251,10 +280,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "91642822738a7133",
+  "active": "a9794cd19d1db241",
   "lastOpenFiles": [
-    "Profile.md",
     "옵시디언.md",
+    "Profile.md",
     "Attachments/Pasted image 20260624114411.png",
     "simple-note.md",
     "test.md",

@@ -147,7 +147,7 @@
       "platforms": {
         "darwin": false,
         "linux": false,
-        "win32": false
+        "win32": true
       },
       "pythonExecutable": "C:\\Users\\admin\\Documents\\obsidian\\.obsidian-terminal-env\\Scripts\\python.exe",
       "restoreHistory": false,
@@ -167,6 +167,7 @@
       "args": [
         "\"$PWD\""
       ],
+      "environment": [],
       "executable": "/System/Applications/Utilities/Terminal.app/Contents/macOS/Terminal",
       "followTheme": true,
       "name": "",
@@ -189,6 +190,7 @@
       "args": [
         "--login"
       ],
+      "environment": [],
       "executable": "/bin/zsh",
       "followTheme": true,
       "name": "",
@@ -226,6 +228,7 @@
     },
     "linuxExternalDefault": {
       "args": [],
+      "environment": [],
       "executable": "xterm",
       "followTheme": true,
       "name": "",
@@ -246,6 +249,7 @@
     },
     "linuxIntegratedDefault": {
       "args": [],
+      "environment": [],
       "executable": "/bin/sh",
       "followTheme": true,
       "name": "",
@@ -268,6 +272,7 @@
     },
     "win32ExternalDefault": {
       "args": [],
+      "environment": [],
       "executable": "C:\\Windows\\System32\\cmd.exe",
       "followTheme": true,
       "name": "",
@@ -288,6 +293,7 @@
     },
     "win32IntegratedDefault": {
       "args": [],
+      "environment": [],
       "executable": "C:\\Windows\\System32\\cmd.exe",
       "followTheme": true,
       "name": "",
