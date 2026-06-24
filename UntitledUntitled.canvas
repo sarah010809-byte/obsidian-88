@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9cfb9ad5cae81cbf","type":"file","file":"옵시디언.md","x":-720,"y":-440,"width":400,"height":400},
+		{"id":"86f918484e32b671","type":"text","text":"1. claude\n2. claude --dangerously-skip-permisson\n3. claude -c (기존에 하던 거에서 이어서)\n4. claude -c --dangerously-skip-permisson\n\n\n@\n/clear -> 하나의 세션이 끝나면 새로 시작해야 누적된 정볼르 처리하느라고 토큰을 낭비하지 않을 수 있고 덜 멍청해진다","x":40,"y":-446,"width":413,"height":413}
+	],
+	"edges":[
+		{"id":"96adc4ad587322e7","fromNode":"9cfb9ad5cae81cbf","fromSide":"right","toNode":"86f918484e32b671","toSide":"left"}
+	]
+}
